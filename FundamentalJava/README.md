@@ -1,7 +1,7 @@
 ## 📸 Tampilan Program
 
 ### 1. MELIHAT LIST PRODUK 
-![LIHAT SEMUA PRODUK (MENU 1)](./assets/LIHAT-SEMUA-PRODUK-(1).jpg)
+![LIHAT SEMUA PRODUK (MENU 1)](./assets/HAPUS_PRODUK_&_KELUAR_(4).jpg)
 
 ### 2. MENGUPDATE PRODUK
 ![UPDATE PRODUK (MENU 3)](./assets/UPDATE-PRODUK-(3).jpg)
